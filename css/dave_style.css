@@ -1,0 +1,21 @@
+body {
+	font-family: arial;
+
+	background-image: url("../images/guardian_bldg.gif");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	background-color: f3f3f3;}
+
+	blockquote {color:orange;}
+	h1 {color: green;}
+	li {color: red;}
+	h2 {color: olive;}
+
+	table {
+    display: table;
+    box-shadow: 10px 10px silver;
+    border-collapse: separate;
+    border-spacing: 3px;
+    border-color: white;}
+
